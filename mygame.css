@@ -1,0 +1,90 @@
+@media screen and (max-width: 768px) {
+    * {
+        background-color: chocolate;
+    }
+    #gamarjoba {
+        color: chartreuse;
+        font-size: 6em;
+        position: absolute;
+        left: 120px;
+        top: 20px;
+    }
+    #gamoicaniromelia {
+        color: wheat;
+        width: 200px;
+        font-size: 4em;
+        position: absolute;
+        left: 200px;
+        top: 200px;
+    }
+    #dawyeba {
+        visibility: hidden;
+    }
+    #dawyeba1 {
+        background-color: #fff;
+        color: black;
+        font-size: 5em;
+        padding: 40px 120px 40px 120px;
+        position: absolute;
+        top: 490px;
+        left: 90px;
+        border-radius: 20px;
+        text-decoration: none;
+    }
+    #dawyeba :checked {
+        visibility: hidden;
+    }
+    #gagrzeleba {
+        background-color: #fff;
+        color: black;
+        font-size: 5em;
+        padding: 40px 60px 40px 60px;
+        position: absolute;
+        top: 1200px;
+        left: 80px;
+        border-radius: 20px;
+        text-decoration: none;
+    }
+    #gagrzeleba00 {
+        background-color: #fff;
+        color: black;
+        font-size: 5em;
+        padding: 40px 60px 40px 60px;
+        position: absolute;
+        top: 600px;
+        left: 80px;
+        border-radius: 20px;
+        text-decoration: none;
+    }
+    #gri {
+        color: wheat;
+        width: 200px;
+        font-size: 4em;
+        position: absolute;
+        left: 200px;
+        top: 20px;
+    }
+    .afr1 {
+        position: absolute;
+        top: 400px;
+        width: 300px;
+        left: 40px;
+    }
+    .afr2 {
+        position: absolute;
+        top: 900px;
+        width: 300px;
+        left: 40px;
+    }
+    #af2 {
+        left: 370px;
+    }
+    #af4 {
+        left: 370px;
+    }
+    .c1 {
+        position: absolute;
+        top: 450px;
+        left: 40px;
+    }
+} 
